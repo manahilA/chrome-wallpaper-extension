@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background: url('wallpapers/sample1.jpeg') center/cover no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+    color: white;
+}
